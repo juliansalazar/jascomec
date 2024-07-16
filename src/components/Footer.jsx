@@ -13,7 +13,7 @@ const Footer = () => {
               <Image
                 src = {logo} 
                 alt = "logo"
-                width = "30%"
+                width = "150px"
                 className = "footer-image"
               />
             </Stack>
