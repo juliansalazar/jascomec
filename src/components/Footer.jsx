@@ -19,14 +19,6 @@ const Footer = () => {
             </Stack>
           </Col>
           <Col>
-            <Nav className='flex-column fs-5'>
-              Useful Links
-              <NavLink href='#' className='text-black'>Home</NavLink>
-              <NavLink href='#' className='text-black'>Servicios</NavLink>
-              <NavLink href='#' className='text-black'>Contacto</NavLink>
-            </Nav>
-          </Col>
-          <Col>
             <h4>Contactos</h4>
             <p>Email: AAA</p>
             <p>Teléfono: 1234567890</p>
