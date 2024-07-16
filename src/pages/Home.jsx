@@ -1,9 +1,10 @@
 import React from 'react'
+import SimpleSlider from '../components/SimpleSlider'
 
 const Home = () => {
   return (
     <div>
-        <h1>JASCOMEC</h1>
+        <SimpleSlider/>
     </div>
   )
 }
