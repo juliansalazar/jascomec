@@ -7,17 +7,17 @@ const BasicExample = () => {
   return (
     <Navbar expand="lg" className="bg-body-tertiary">
       <Container>
-        <Navbar.Brand href="" >JASCOMEC</Navbar.Brand>
-        <Navbar.Toggle aria-controls="basic-navbar-nav" />
-        <Navbar.Collapse id="basic-navbar-nav">
+        <Navbar.Brand href="/" >Julian Salazar</Navbar.Brand>
+        <Navbar.Toggle  aria-controls="basic-navbar-nav" />
+        <Navbar.Collapse  id="basic-navbar-nav">
           <Nav className="me-auto">
-            <Nav.Link href="#servicios">Servicios</Nav.Link>
-            <Nav.Link href="#precios">Precios</Nav.Link>
-            <NavDropdown title="Accionables" id="basic-nav-dropdown">
-              <NavDropdown.Item href="#action/3.1">Agendar 30 minutos</NavDropdown.Item>
-              <NavDropdown.Item href="#action/3.2">Llamar</NavDropdown.Item>
+            <Nav.Link href="#servicios">Services</Nav.Link>
+            <Nav.Link href="#precios">Prices</Nav.Link>
+            <NavDropdown title="Other Links" id="basic-nav-dropdown">
+              <NavDropdown.Item href="#action/3.1">Book 30 minutes free</NavDropdown.Item>
+              <NavDropdown.Item href="tel:'3472273068'">Call</NavDropdown.Item>
               <NavDropdown.Divider />
-              <NavDropdown.Item href="#action/3.3">
+              <NavDropdown.Item href="https://wa.me/593984976911">
                 Whatsapp
               </NavDropdown.Item>
             </NavDropdown>

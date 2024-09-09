@@ -13,15 +13,15 @@ const Footer = () => {
               <Image
                 src = {logo} 
                 alt = "logo"
-                width = "150px"
+                width= "150px"
                 className = "footer-image"
               />
             </Stack>
           </Col>
           <Col>
-            <h4>Contactos</h4>
-            <p>Email: AAA</p>
-            <p>Teléfono: 1234567890</p>
+            <h4>Contacts</h4>
+            <p>Email: <a href="mailto:jascomec@gmail.com">jascomec@gmail.com</a></p>
+            <p>Phone: <a href="tel:'3472273068'">347-223-3068</a></p>
           </Col>
         </Row>
       </Container>
