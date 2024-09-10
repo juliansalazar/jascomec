@@ -12,7 +12,7 @@ const BasicExample = () => {
         <Navbar.Collapse  id="basic-navbar-nav">
           <Nav className="me-auto">
             <Nav.Link href="#servicios">Services</Nav.Link>
-            <Nav.Link href="#precios">Prices</Nav.Link>
+            <Nav.Link href="#precios">Pricing</Nav.Link>
             <NavDropdown title="Other Links" id="basic-nav-dropdown">
               <NavDropdown.Item href="#action/3.1">Book 30 minutes free</NavDropdown.Item>
               <NavDropdown.Item href="tel:'3472273068'">Call</NavDropdown.Item>
