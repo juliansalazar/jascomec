@@ -13,7 +13,7 @@ const Home = () => {
       <p>Do you need a fresh 360-financial opinion about your company? Well, this website is for you!</p>
       <p>We use two different and simple approaches: (1) Income and (2) Costs Driven.</p>
       <p>Each approach has different strategies but all of them aim to increase your Total Demand.</p>
-      <p>Part of the value we add is deep-analyze your last financial reports (Balance Sheet, Income Statement and Cash Flow).</p>
+      <p>Part of the value we add is deep-analyze your last financial reports (Balance, Income and Cash Flow).</p>
       <p>Here we will come with a list of easy to answer questions in order to start conceptualizing and delimiting your biggest financial challenges.</p>
       <p>We will also show you the most relevant data points, financial ratios, and key financial figures.</p>
       <p>And of course, we will always be here to help you with your questions, answer your doubts and help you make the best possible financial decisions.</p>
